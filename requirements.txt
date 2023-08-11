@@ -1,0 +1,2 @@
+google_api_python_client==2.96.0
+iso8601==2.0.0
