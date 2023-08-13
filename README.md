@@ -5,7 +5,7 @@ A generalised program that calculates length/duration of youtube playlist.
 ## Usage
 
 Git Clone the project.
-`git clone https://github.com/K4R7IK/playlist_calculator.git`
+`git clone https://github.com/cosmos1721/playlist_calculator.git`
 
 Open the _yt_calc.py_ file and replace the following.
 
